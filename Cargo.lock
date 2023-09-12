@@ -2762,7 +2762,7 @@ dependencies = [
 [[package]]
 name = "sugarfunge-primitives"
 version = "0.1.0"
-source = "git+https://github.com/SugarFunge/sugarfunge-primitives?branch=main#a1081127680a7bd785505f6fa7abfd788a799fe1"
+source = "git+https://github.com/SugarFunge/sugarfunge-primitives?branch=fula/release#a1081127680a7bd785505f6fa7abfd788a799fe1"
 dependencies = [
  "frame-system",
  "parity-scale-codec",
